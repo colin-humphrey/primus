@@ -39,6 +39,6 @@ An exploratory Behavioural Driven Development project.
 * mvn clean install
 
 ### Issues?
-⚠ edit: src/test/java/com/primus/firstPrimus/PrimusConfig/UserConstants/UserConstants.java and replace the empty strings with your email and password:
+⚠ edit: src/test/java/com/primus/firstPrimus/PrimusConfig/UserConstants/UserConstants.java and replace the empty strings with your email and password.
 
 💡 the command needs to be run in the root primus directory.  Any issues create an issue.
