@@ -40,4 +40,5 @@ An exploratory Behavioural Driven Development project.
 
 ### Issues?
 ⚠ edit: src/test/java/com/primus/firstPrimus/PrimusConfig/UserConstants/UserConstants.java and replace the empty strings with your email and password:
+
 💡 the command needs to be run in the root primus directory.  Any issues drop a comment here on on github.
